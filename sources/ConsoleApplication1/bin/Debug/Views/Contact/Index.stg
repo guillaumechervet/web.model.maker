@@ -1,0 +1,9 @@
+﻿import "../Shared/Master.stg"
+
+page(model) ::= <<
+
+<p>Content of my Contact page!</p>
+
+ 
+
+>>

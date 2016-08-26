@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateDesigner", "ConsoleApplication1\TemplateDesigner.csproj", "{AFB5BAC9-9B80-4B23-BEFF-162C20E387B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{BDAB1804-C6B6-44D0-88DB-18CFF203E7B8}"
+	ProjectSection(SolutionItems) = preProject
+		Librairies\Antlr3.Runtime.dll = Librairies\Antlr3.Runtime.dll
+		Librairies\Antlr3.Runtime.pdb = Librairies\Antlr3.Runtime.pdb
+		Librairies\Antlr4.StringTemplate.dll = Librairies\Antlr4.StringTemplate.dll
+		Librairies\Antlr4.StringTemplate.pdb = Librairies\Antlr4.StringTemplate.pdb
+		Librairies\Antlr4.StringTemplate.Visualizer.dll = Librairies\Antlr4.StringTemplate.Visualizer.dll
+		Librairies\Antlr4.StringTemplate.Visualizer.pdb = Librairies\Antlr4.StringTemplate.Visualizer.pdb
+		Librairies\LICENSE.txt = Librairies\LICENSE.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB5BAC9-9B80-4B23-BEFF-162C20E387B0}.Debug|x86.ActiveCfg = Debug|x86
+		{AFB5BAC9-9B80-4B23-BEFF-162C20E387B0}.Debug|x86.Build.0 = Debug|x86
+		{AFB5BAC9-9B80-4B23-BEFF-162C20E387B0}.Release|x86.ActiveCfg = Release|x86
+		{AFB5BAC9-9B80-4B23-BEFF-162C20E387B0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

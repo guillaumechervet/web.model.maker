@@ -1,0 +1,27 @@
+﻿master(model) ::= <<
+<html>
+<head>
+<meta charset="utf-8">
+@header(model)µ
+</head>
+<body>
+</header>
+<img src="../../Content/Images/logo.gif" />
+<h1>Title of my website</h1>
+<header>
+<nav>
+<ul>
+<li><a href="../Home/index.htm">Home</a></li>
+<li><a href="../Contact/index.htm">Contact</a></li>
+</ul>
+</nav>
+@page(model)µ
+<footer>
+<p>Footer of my website<p>
+</footer>
+</body>
+</html>
+>>
+
+header(model) ::= "<title>Designer editor demo</title>"
+page(mode) ::= "This page is empty"
